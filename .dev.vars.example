@@ -1,0 +1,7 @@
+# ローカルで `wrangler dev` / Cloudflare Vite プラグインが読み込む Worker 用シークレット。
+# このファイルをコピーして `.dev.vars` を作成し、値を埋めてください（.dev.vars は Git に含めない）。
+#
+# API キーはリポジトリにコミットしないこと。
+
+MICROCMS_API_KEY=
+MICROCMS_SERVICE_DOMAIN=bartsukitosuiren.microcms.io
